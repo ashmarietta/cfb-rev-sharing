@@ -127,7 +127,7 @@ The following steps were implemented in Python in Google Colab, plus a supplemen
 * `fbs_gap.ipynb` — Full data pull, tier classification, and recruiting/transfer portal analysis workflow
 * `fbs_gap.html` — Exported notebook with all code blocks, outputs, and visualizations
 * `fbs_gap_revenue_analysis.xlsx` — Win-loss, bowl-rate, and Knight-Newhouse revenue data by tier and year with gap-trend calculations and charts
-* Visualizations: power vs. mid-major win percentage, bowl rate, and revenue by year; power vs. mid-major share of 3+ and 4+/5-star recruiting classes
+  * Visualizations: power vs. mid-major win percentage, bowl rate, and revenue by year; power vs. mid-major share of 3+ and 4+/5-star recruiting classes
 
 ---
 
