@@ -45,59 +45,58 @@ The following steps were implemented in Python in Google Colab, plus a supplemen
 ---
 
 ### 2. The Bowl/CFP Appearance Rate Gap Widened for Three Years but Nearly Vanished in 2025
-* The bowl-rate gap grew from 13.2 points (2022) to 13.4 (2023) to a four-year high of 19.1 points (2024).
-* It then collapsed to just 2.9 points in 2025, while power programs' bowl rate fell from 70.6% to 61.8% and mid-major's rose from 51.5% to 58.8%.
+* The bowl-rate gap grew from 13.2 percentage points (2022) to a four-year high of 19.1 percentage points (2024).
+* It then collapsed to just 2.9 percentage points in 2025. Power programs' bowl rate fell from 70.6% to 61.8%, and mid-major's rose from 51.5% to 58.8%.
 
 ---
 
 ### 3. The Financial Gap Widened Sharply in Revenue-Sharing's First Year
-* Median power-program revenue jumped from $153.5M (2024) to $178.5M (2025) — about 16% growth, versus roughly 5% and 2% year-over-year growth in the two prior years.
+* Median power-program revenue jumped from $153.5M (2024) to $178.5M (2025), which was about 16% growth, versus roughly 5% and 2% year-over-year growth in the two prior years.
 * Mid-major revenue grew more modestly, from $43.8M to $48.4M.
 * The dollar gap between tiers grew from $109.7M (2024) to $130.1M (2025), which was its largest single-year jump in the dataset.
 
 ---
 
-### 4. Year One of Revenue Sharing: The Financial Gap Grew, but the Competitive Gap Didn't
-* Despite the largest financial-gap increase in the four-year window, 2025 didn't produce a wider competitive gap. The win percentage gap barely moved, and the bowl-rate gap narrowed.
-* One post-settlement season isn't enough to call this a trend. It's an early signal that money and on-field competitiveness aren't moving in lockstep yet, which could be worth re-checking after the 2026 season.
+### 4. The Financial Gap Grew After Year One of Revenue Sharing, but the Competitive Gap Did Not
+* Despite the largest financial-gap increase in the four-year window, 2025 did not produce a wider competitive gap. The win percentage gap barely moved, and the bowl-rate gap narrowed.
+* One post-settlement season is not enough to call this a trend. It is an early signal that money and on-field competitiveness aren't moving in lockstep yet, which could be worth re-checking after the 2026 season.
 
 ---
 
-### 5. The FBS Landscape Splits Nearly Evenly Into Power and Mid-Major with a Sizable Gray Zone
-* 270 team-seasons classified as power, 264 as mid-major (2022–2025) — a nearly even split
-* 170 transfer entries had an unclassifiable origin and 187 an unclassifiable destination, pointing to a consistent volume of movement involving non-FBS or otherwise unclassified programs
+### 5. The FBS Landscape Split Nearly Evenly Into Power and Mid-Major
+* 270 team-seasons were classified as power and 264 as mid-major, which made revenue comparisons more reputable.
 
 ---
 
-### 6. Top Transfer Destinations Shift Every Year Across Both Tiers
-* The most popular transfer destinations change year to year and mix power and mid-major programs. Colorado, Louisville, and Purdue (power) and Texas State (mid-major) all appear among the top destinations in a given year.
+### 6. Top Transfer Destinations Shifted Every Year Across Both Tiers
+* The most popular transfer destinations changed year to year and mixed power and mid-major programs. Colorado, Louisville, and Purdue (power) and Texas State (mid-major) all appeared among the top destinations in a given year.
 
 ---
 
-### 7. The Mid-Major-to-Power Transfer Pipeline Is Accelerating
+### 7. The Mid-Major-to-Power Transfer Pipeline Accelerated
 * 3+ star transfers from mid-major to power programs more than doubled from 183 (2023) to 460 (2026).
 * Movement between power programs also grew substantially from 515 to 837 3+ star transfers.
-* Power-to-mid-major transfers rose, too, from 310 (2023) to 499 (2026) and peaking at 527 in 2025.
+* Power-to-mid-major transfers rose, too, from 310 (2023) to 499 (2026) and peaked at 527 in 2025.
 * Movement within the mid-major tier peaked at 424 in 2025 before dipping to 360 in 2026.
 
 ---
 
-### 8. The 3+ Star Recruiting Gap Is Narrowing
+### 8. The 3+ Star Recruiting Gap Narrowed
 * Power's share of the overall 3+ star class fell from 53.4% (2023) to 45.2% (2026).
 * Mid-major's share rose from 28.3% to 37.4% over the same span.
-* The power-minus-mid-major gap narrowed from 25.2 points (2023) to 7.8 points (2026).
+* The power-minus-mid-major gap narrowed from 25.2 percentage points (2023) to 7.8 percentage points (2026).
 
 ---
 
-### 9. Elite (4-/5-Star) Recruiting Remains an Almost Total Power Monopoly
+### 9. Elite (4-/5-Star) Recruiting Remained a Power Monopoly
 * Power programs signed 98–99% of all 4-and-5-star recruits in every year studied; mid-major programs never exceeded 1.4% of that pool in any year.
 * Mid-major programs signed zero 5-star recruits in any year.
 
 ---
 
-### 10. The First Revenue-Share Cohort (2026) Shows Continuity, Not a Break, on the Recruiting Side
+### 10. The First Revenue-Share Cohort (2026) Showed Continuity, Not a Break, on the Recruiting Side
 * The 3+ star gap-narrowing trend and elite-tier power dominance both continued through 2026 without an abrupt shift.
-* One post-settlement recruiting class isn't enough to say revenue sharing caused the narrowing. The trend line was already moving this direction before July 2025, but it also hasn't reversed or stalled.
+* One post-settlement recruiting class is not enough to say revenue sharing caused the narrowing. The trend line was already moving this direction before July 2025, but it also has not reversed or stalled.
 
 ---
 
@@ -109,14 +108,14 @@ The following steps were implemented in Python in Google Colab, plus a supplemen
 ---
 
 ### For Power Programs
-* Revenue growth in 2025 (~16% YoY) outpaced any movement in competitive balance. The spending advantage hasn't yet translated into a wider on-field gap.
-* Rising intra-power transfer volume (837 in 2026) indicates the portal is becoming as central to roster construction as high school recruiting.
+* Revenue growth in 2025 (~16% YoY) outpaced any movement in competitive balance. The spending advantage has not yet translated into a wider on-field gap.
+* Rising intra-power transfer volume (837 in 2026) indicates the portal is becoming central to roster construction in addition to high school recruiting.
 * Ceding ground on 3-star recruits may be a rational tradeoff if it frees resources to protect the 4-/5-star pipeline, where dominance remains nearly absolute.
 
 ---
 
 ### For Administrations
-* The mismatch between the widening financial gap and the flat competitive gap in 2025 is a useful signal that revenue and on-field performance don't necessarily move in lockstep in the short term.
+* The mismatch between the widening financial gap and the flat competitive gap in 2025 is a useful signal that revenue and on-field performance do not necessarily move in lockstep in the short term.
 * A single post-settlement season/cohort can't support causal claims about revenue sharing's effect on competitive balance or recruiting.
 * Bowl rate is a small-sample, binary metric, and one should treat 2025's sharp swing as a data point to monitor, not a confirmed trend, until a second post-settlement season is available.
 * Tracking the 2026 season and 2027–2028 recruiting classes will show whether these are continuations of existing trends or genuine inflection points.
